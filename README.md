@@ -10,3 +10,5 @@ IMPORT GEPHI:
 8. Change the axis to Y 
 9. Click Apply in the bottom panel 
 10. Done!
+![cyprus_plot](https://user-images.githubusercontent.com/128039803/230741843-1f018796-a839-49c6-8088-6f82af040597.PNG)
+![cyprus_graph](https://user-images.githubusercontent.com/128039803/230741844-6b098361-0689-45eb-8bec-cc101ef66cf4.PNG)
